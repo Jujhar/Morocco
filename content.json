@@ -1,6 +1,18 @@
 {
   "custom-field": "343",
   "custom-list": [
-    {}
-  ]
+    {},
+    {
+      "custom-list-item": "jjj"
+    },
+    {
+      "custom-list-item": "jjj"
+    },
+    {
+      "custom-list-item": "jjj"
+    }
+  ],
+  "custom-object": {
+    "custom-line": "jj"
+  }
 }
