@@ -6,8 +6,8 @@
     ":type": "line"
   },
   "Images": {
-    ":Image": {
-      "custom-list-item": {
+    ":items": {
+      "Image": {
         ":type": "line"
       }
     }
