@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/Cities-1-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Images-1-<COLOR>.svg)](https://shields.io/)
+
 ## Safi
 
 ![img](gallery/1.png "")[H]
