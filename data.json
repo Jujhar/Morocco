@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "tags": []
+    },
+    "sys": {
+        "space": {
+            "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "gelyxwredr5h"
+            }
+        },
+        "id": "6CtlNdpREw8eK4QGQq4Vh",
+        "type": "Entry",
+        "createdAt": "2022-04-19T23:24:58.560Z",
+        "updatedAt": "2022-04-19T23:29:24.113Z",
+        "environment": {
+            "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+            }
+        },
+        "revision": 3,
+        "contentType": {
+            "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "town"
+            }
+        },
+        "locale": "en-US"
+    },
+    "fields": {
+        "name": "Safi",
+        "image": [
+            {
+                "sys": {
+                    "type": "Link",
+                    "linkType": "Asset",
+                    "id": "5eoaVg87OoR2Co7SWDzNsS"
+                }
+            }
+        ],
+        "knowledge2": 0
+    }
+}
