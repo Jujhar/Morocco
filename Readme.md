@@ -1,5 +1,5 @@
-[![Generic badge](https://img.shields.io/badge/Cities-1-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Images-1-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Cities-2-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Images-2-<COLOR>.svg)](https://shields.io/)
 
 ## Safi
 
@@ -25,6 +25,8 @@
 ![img](gallery/10.jpg "")[H]
 ![img](gallery/11.png "")[H]
 ![img](gallery/11.jpg "")[H]
+
+## Larache
 
 ![img](gallery/12.png "")[H]
 ![img](gallery/12.jpg "")[H]
